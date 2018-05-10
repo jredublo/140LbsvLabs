@@ -1,0 +1,12 @@
+bin/lin64/gqbrowserwindowexists
+bin/lin64/batchxsetup
+bin/lin64/isehelpviewer
+bin/lin64/xsetup
+bin/lin64/_xsetup
+bin/lin64/_batchxsetup
+lib/lin64/libQt_XmlPatterns.so
+bin/lin64/xinfoenv
+lib/lin64/libboost_wserialization-gcc41-mt-p-1_38.so.1.38.0
+bin/lin64/xinfo
+bin/lin64/_xinfo
+lib/lin64/libboost_bzip2-gcc41-mt-p-1_38.so.1.38.0

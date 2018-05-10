@@ -1,0 +1,10 @@
+bin/lin/_batchxsetup
+lib/lin/libboost_bzip2-gcc41-mt-p-1_38.so.1.38.0
+bin/lin/xsetup
+bin/lin/xinfoenv
+bin/lin/_xsetup
+bin/lin/gqbrowserwindowexists
+bin/lin/xinfo
+bin/lin/_xinfo
+bin/lin/isehelpviewer
+bin/lin/batchxsetup
